@@ -1,0 +1,31 @@
+.css{
+    background-color: rgb(207, 219, 196);
+    width: 210px;
+    padding: 15;
+    text-decoration-color: rgb(12, 46, 237);
+     border-style: double;
+     border-color: rgb(14, 21, 238);
+
+
+}
+.kkr{
+    background-color: rgb(25, 138, 237);
+}
+.label {
+    color: rgb(255, 248, 248);
+    padding: 8px;
+    font-family: arial;
+  }
+  .pps{
+    padding: 15px;
+    padding-right: 50px;
+    padding-left:50px ;
+   border-style: outset;
+   border-color: crimson;
+   transition-duration: 0.4s;
+   cursor: pointer;
+   background-color: azure;
+   position: absolute;
+   left:1500px;
+  
+  }
